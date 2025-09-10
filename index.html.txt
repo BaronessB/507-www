@@ -25,7 +25,7 @@
 										<nav id="nav">
 										<a href="index.html">Homepage</a>
 										<a href="503 LLOYDS BANK.html">503 LLOYDS BANK PLC</a>
-										<a href="507 OCTOPUS ENERGY.html" class="current-page-item">507 OCTOPUS ENERGY</a>
+										<a href="507 OCTOPUS ENERGY.html" class="current-page-item">507 OCTOPUS ENERGY - SPOTLGHT </a>
 										<a href="twocolumn2.html">LIBRARY</a>
 										<a href="MPs SECURITIZED LIENs.html">MPs SECURITIZED LIENs</a>
 										<a href="SECURITIZED AFFIDAVIT LIEN.html">SECURITIZED AFFIDAVIT/LIENs</a>
@@ -71,7 +71,7 @@
 							<div class="col-4 col-12-medium">
 
 								<section>
-										<p uppercase><a href="https://baronessb.github.io/REPOS_REPO/" class="button">AFFIDAVIT LIBRARY</a></p uppercase>
+										<p uppercase><a href="https://repos-repo.pages.dev/" class="button">AFFIDAVIT LIBRARY</a></p uppercase>
 									
 								<h2><p uppercase>AFFIDAVITS LIBRARY</p uppercase></h2>
 								<ul class="small-image-list">
@@ -263,4 +263,5 @@
 			<script src="assets/js/main.js"></script>
 
 	</body>
+
 </html>
